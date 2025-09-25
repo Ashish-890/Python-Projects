@@ -19,4 +19,5 @@ while True:
     print('Thank you for playing!')
     break
  else:
+
    print('invalid input')
